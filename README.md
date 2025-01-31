@@ -12,6 +12,16 @@
 
 With a seamless **order & payment system**, it ensures hassle-free meal selection with **veg & non-veg categories**. The **AI-driven recommendation engine** suggests meals based on dietary preferences and past orders.  
 
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/4a415628-8001-40cd-8f92-5d3376ed06b8)
+![image](https://github.com/user-attachments/assets/07ac41b3-1bc5-4621-a795-5340af4f1cf1)
+![image](https://github.com/user-attachments/assets/c2ec7c5a-9c57-44d8-9cea-acec803d6ad9)
+![image](https://github.com/user-attachments/assets/96610b8d-9026-4a02-80ce-a7579fdf29b5)
+![image](https://github.com/user-attachments/assets/e744dcc7-3f6c-4e2b-bf27-188d609b0e90)
+![image](https://github.com/user-attachments/assets/04aca351-17e0-4eb6-966b-00fe34663a74)
+
+
+
 ---
 
 ## 🌟 **Features**  
