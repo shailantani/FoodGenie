@@ -119,14 +119,14 @@ npm start  # Runs React frontend
 If you like this project, please 🌟 Star this repository and contribute!
 
 
-Made with ❤️ by Anjali Kumari,Livya Falodia,Shail Antani,
+Made with ❤️ by Shail Antani,Anjali Kumari,Livya Falodia,Aryan
 
 
 
 👨‍💻 Contributions are welcome! Feel free to submit issues and pull requests.
 
 🔗 Connect with Me
-📩 Email: your-anjalikumarikumari19025@gmail.com 
-🐦 Twitter: @anjalik198
-💼 LinkedIn: anjali-kumari-274230262
+📩 Email: shailantani04@gmail.com
+🐦 Twitter: shailantani
+💼 LinkedIn: shail-antani-945041250
 
